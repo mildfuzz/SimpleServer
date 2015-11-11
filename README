@@ -18,7 +18,7 @@ Installation:
    Link is above.
 
 Features (See CHANGES for updates and more infomation):
- * Denial of service protection (DDOS).  More than 30 requests/IP/minute will
+ * Denial of service protection (DOS).  More than 30 requests/IP/minute will
    automatically ban the IP.
  * RCON and experimental telnet access.
  * Experimental event scripting system.
